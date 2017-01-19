@@ -1,0 +1,7 @@
+boto3==1.4.3
+moto==0.4.30
+pynamodb==2.0.3
+python-env==1.0.0
+pytest-cov==2.2
+pytest==2.8
+pytest-mock==1.2
